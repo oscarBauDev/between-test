@@ -46,6 +46,6 @@ public class GlobalHandlerException {
         ErrorDetails errorResponse = new ErrorDetails(HttpStatus.BAD_REQUEST,
                 request.getDescription(false),
                 ex.getMessage());
-        return new ResponseEntity<>(errorResponse, HttpStatus.NOT_FOUND);
+        return new ResponseEntity<>(errorResponse, HttpStatus.BAD_REQUEST);
     }
 }
