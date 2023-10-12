@@ -10,7 +10,7 @@ Para correr la aplicación debes cumplir con los siguientes requerimientos:
 - Tener java 17 instalado en tu computadora y haber configurado la variable de entorno JAVA_HOME.
 - Maven versión 3 o superior
 
-# Diagrama
+# Diagrama de secuencia
 
 ![Diagrama de secuencia](commerceApp/src/main/resources/img/sequence-diagram.png)
 
