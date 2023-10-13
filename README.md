@@ -16,8 +16,8 @@ Para correr la aplicación debes cumplir con los siguientes requerimientos:
 
 ### ejecutar la aplicación
 
-- Para iniciar la aplicación puedes ejecutar la clase principal desde cualquier IDE.
-- Desde la consola (estando en la raiz del proyecto), puedes ejecutar el comando:
+- Para iniciar la aplicación puedes ejecutar la clase principal (CommerceAppApplication.java) desde cualquier IDE.
+- Desde la consola (estando en la raiz del proyecto, en nuestro caso dentro del directorio commerceApp), puedes ejecutar el comando:
 
 ```bash
 mvn spring-boot:run
